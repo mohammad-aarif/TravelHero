@@ -1,0 +1,58 @@
+[
+	{
+		"key": "01",
+		"name": "Kuala Lumpur",
+		"cost": "230",
+		"img": "https://images.unsplash.com/photo-1544718429-0f2a52740b73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"description": "Kuala Lumpur is the capital and also the largest city in Malaysia. It is known as the cultural and economic centre of Malaysia and has a mixed population of Tamil, Chinese and Malay people. Tourism is one of the major industries in this place, and you have a lot of attractive destinations and a lot of things to do in Kuala Lumpur to choose from during your visit there."
+	},
+	{
+		"key": "02",
+		"name": "Paris",
+		"cost": "450",
+		"img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+		"description": "Driving, especially to and in big cities, can be challenging. You may have to deal with massive traffic jams, road rage, delays, or have to pay outrageous fees for parking - if you can find a place to park, that is. Nothing puts a damper a vacation faster than feeling stressed out just getting from place-to-place."
+	},
+	{
+		"key": "03",
+		"name": "Rome",
+		"cost": "320",
+		"img": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1176&q=80",
+		"description": "Rome—the Eternal City. A place where emperors walked, chariots raced, Popes sought influence and command. Rome is a city of cathedrals, monuments, fortune, and glory. A place where magnificent structures and high-modernism blend together. Trend-setting fashion graces display windows in the shadow of ancient ruins. The Italian capital has long captivated the imagination. Artists and poets flock here, pilgrims journey from faraway lands. The attraction of Rome is irresistible. In this travel guide we’ve distilled the best the city has to offer. We look at those places you absolutely must-see in order to be able to say you’ve truly been to Rome. From the Trevi Fountain to Villa Borghese, Castel Sant'Angelo to Palatine Hill, these are the top-10 best things to do in Rome for 2019."
+	},
+	{
+		"key": "04",
+		"name": "Sydney",
+		"cost": "430",
+		"img": "https://images.unsplash.com/photo-1538168407380-1d74b45cf8ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"description": "Australia, the Land Down Under, is a vast continent full of rich biodiversity, incredible culture, and untamed wilderness. The great Australian Outback is the stuff of legend. A vast expanse of desert and grasslands stretching to the horizon. Running along the country’s eastern coast is the Great Barrier Reef, the world’s largest coral reef system. Sydney Harbor is recognizable the world over for the famed Opera House and the New Years fireworks display. A country flush with natural resources, Australia is a welcoming destination where travelers can find just about anything."
+	},
+	{
+		"key": "05",
+		"name": "Melbourne",
+		"cost": "330",
+		"img": "https://images.unsplash.com/photo-1514395462725-fb4566210144?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80",
+		"description": "Melbourne is the capital city of Victoria and is both coolly casual and on fire with its trendy lifestyle. With friendly locals and beautiful weather, it is very suitable for long-term residence. Here, you can experience the modern rhythm of a great metropolis, dine in hidden lanes, visit luxury restaurants and galleries full of historic art. You can also visit part of the famous Great Ocean Road in the suburbs to experience some of Australia's many different strokes. The areas surrounding Melbourne are equally splendid. Phillip Island is an adorable penguin island. Sovereign Hill recreates the life and times of Australia's 19th-Century gold rush, St. Kilda Beach gives you a seaside sense of relaxation and Mt. Dandenong is the central part of Victoria's wine-producing and wineries region."
+	},
+	{
+		"key": "06",
+		"name": "Singapore",
+		"cost": "250",
+		"img": "https://images.unsplash.com/photo-1552790920-0ba96dc99d01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+		"description": "Going on holidays is probably one of the top favourite activities for Singaporean couples, however there are times some couples just can’t afford to do so given the busy schedule and work demands in a hectic city. That’s why staycations have become an increasingly popular activity among Singaporeans. If you and your partner are looking for a weekend respite and simply spending some quality time together to rest and relax without travelling too far, here are some staycation ideas in Singapore where you can find activities to do as a couple, be it chilling by the pool, soaking in a hot tub, sun-bathing, indulging in hotel buffets or just lazing in bed.1. Lloyd's InnTucked away in a quiet corner of bustling Orchard Road, Lloyd's Inn is just a stone's throw away from Somerset MRT station, which makes the perfect weekend respite for busy Singaporean couples."
+	},
+	{
+		"key": "07",
+		"name": "Dubai",
+		"cost": "730",
+		"img": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80",
+		"description": "For those harboring a stronger connection to these underwater realms, a remarkable number of destinations are taking undersea adventure to new heights…or rather depths. We’ve all heard the expression “sleep with the fishes.” The hotels we’ve found here for you give an entirely new meaning to that phrase. No longer do you have to picture gangsters in pinstripe suits throwing curiously large packages off the end of some foggy dock. These hotels let you explore beneath the surface without getting wet. From Sweden to Dubai, Florida to Fiji, we’ve scoured the globe to bring you the best. We know you’ll enjoy this look at some truly remarkable establishments."
+	},
+	{
+		"key": "08",
+		"name": "Bali",
+		"cost": "120",
+		"img": "https://images.unsplash.com/photo-1550583088-ffe97305e2c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"description": "Bali is one of the most famous of Indonesia’s “thousand islands”, with its sandy beaches, world-class surf spots and spectacular underwater views. A wealth of entertainment venues, restaurants, cafés and spas of all grades await vacationers. It is dotted with rural farmhouses, forest grasslands and deep emerald valleys full of rapids. There are two active volcanoes in the north, adding an air of mystery and natural extravagance. There are a number of elegant and exquisite villas hidden within the island, while the luxury beach resorts are a top choice among honeymooners."
+	}
+]

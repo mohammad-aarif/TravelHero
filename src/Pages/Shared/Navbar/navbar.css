@@ -1,0 +1,10 @@
+.nav-item .nav-link p a{
+    text-decoration: none !important;
+}
+.nav-photo{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.dropdown-item{
+    color:rgb(209, 209, 209);
+}

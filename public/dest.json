@@ -1,0 +1,47 @@
+[
+	{
+		"key": "01",
+		"name": "The Empire State Building",
+		"availity": "Available from today | Fully Refundable",
+		"from": "New Yourk",
+		"price": "523",
+		"img": "https://images.unsplash.com/photo-1624633385124-7f1ffdc0d1df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1158&q=80",
+		"booked": "12"
+	},
+	{
+		"key": "02",
+		"name": "The Museum of Modern Art",
+		"availity": "Available for Tomorrow Onwards",
+		"from": "New Yourk",
+		"price": "123",
+		"img": "https://images.unsplash.com/photo-1545293527-d41d0c75b9ee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"booked": "42"
+	},
+	{
+		"key": "03",
+		"name": "New York Aquarium Admission",
+		"availity": "Available from today | Fully Refundable",
+		"from": "New Yourk",
+		"price": "181",
+		"img": "https://images.unsplash.com/photo-1621584353981-dd5271ed1f1b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"booked": "41"
+	},
+	{
+		"key": "04",
+		"name": "Spyscape Museum and Experience",
+		"availity": "Available from today | Fully Refundable",
+		"from": "New Yourk",
+		"price": "231",
+		"img": "https://images.unsplash.com/photo-1508180588132-ec6ec3d73b3f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"booked": "132"
+	},
+	{
+		"key": "05",
+		"name": "Guggenheim Museum",
+		"availity": "Available for Tomorrow Onwards",
+		"from": "New Yourk",
+		"price": "172",
+		"img": "https://images.unsplash.com/photo-1595550252591-ad7c6eacfe4a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+		"booked": "162"
+	}
+]
