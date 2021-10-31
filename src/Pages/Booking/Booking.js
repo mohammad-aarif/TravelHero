@@ -25,27 +25,27 @@ const Booking = () => {
             <div className="row ">
                 <div className="col-md-12 col-12">
                     <form onSubmit={handleSubmit(onSubmit)}>
-                    <div class="input-group mb-3">
-                        <input type="text" class="form-control" defaultValue={user?.displayName} {...register("name")} placeholder="Your Name" aria-label="Your Name" aria-describedby="basic-addon1"/>
+                    <div className="input-group mb-3">
+                        <input type="text" className="form-control" defaultValue={user?.displayName} {...register("name")} placeholder="Your Name" aria-label="Your Name" aria-describedby="basic-addon1"/>
                     </div>
 
-                    <div class="input-group mb-3">
-                        <input type="text" class="form-control" placeholder="Your Email" defaultValue={user?.email} {...register("email")} aria-label="Your Email" aria-describedby="basic-addon2"/>
+                    <div className="input-group mb-3">
+                        <input type="text" className="form-control" placeholder="Your Email" defaultValue={user?.email} {...register("email")} aria-label="Your Email" aria-describedby="basic-addon2"/>
                     </div>
 
-                    <label for="basic-url" class="form-label">Book Your Ticket</label>
+                    <label htmlfor="basic-url" className="form-label">Book Your Ticket</label>
 
-                    <div class="input-group mb-3">
-                        <input type="text" defaultValue={booking} placeholder="Enter your Package Name" class="form-control" id="basic-url" {...register("package")} aria-describedby="basic-addon3"/>
-                        <input placeholder="Enter Person Quantity" type="number" {...register("person")} class="form-control" />
+                    <div className="input-group mb-3">
+                        <input type="text" defaultValue={booking} placeholder="Enter your Package Name" className="form-control" id="basic-url" {...register("place")} aria-describedby="basic-addon3"/>
+                        <input placeholder="Enter Person Quantity" type="number" {...register("person")} className="form-control" />
                     </div>
-                    <div class="input-group mb-3">
+                    <div className="input-group mb-3">
                     <input className="btn general-btn w-100" type="submit" />
                     </div>
 {/* 
-                    <div class="input-group mb-3">
-                        <input type="text" class="form-control" placeholder="Your Name" aria-label="Your Name"/>
-                        <input type="text" class="form-control" placeholder="Server" aria-label="Server"/>
+                    <div className="input-group mb-3">
+                        <input type="text" className="form-control" placeholder="Your Name" aria-label="Your Name"/>
+                        <input type="text" className="form-control" placeholder="Server" aria-label="Server"/>
                     </div> */}
 
                     </form>

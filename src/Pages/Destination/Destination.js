@@ -13,7 +13,8 @@ const Destination = () => {
             <div className="container py-5">
                 <div className="row g-5">
                     {
-                        destination.map(data => <DestinationData 
+                        destination.map(data => <DestinationData
+                        key={data._id}
                         dest = {data}
                         ></DestinationData>) 
                     }

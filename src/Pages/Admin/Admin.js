@@ -28,7 +28,7 @@ const Admin = () => {
         <div>
             <div className="row">
                 <div className="col-md-4">
-                    <ul class="nav admin-sidebar flex-column">
+                    <ul className="nav admin-sidebar flex-column">
                         <li><Link to="admin">Dashboard</Link></li>
                         <li><Link to="addtour">Add Tour</Link></li>
                     </ul>
@@ -36,13 +36,13 @@ const Admin = () => {
                 <div className="col-md-8">
                     <div className="container">         
                         <h1 className="text-center py-3"> Dashboard</h1>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                 <th scope="col">Name</th>
                                 <th scope="col">Email</th>
                                 <th scope="col">Destination</th>
-                                <th scope="col">Status</th>
+                                <th scope="col">People</th>
                                 <th scope="col">#</th>
 
                                 </tr>

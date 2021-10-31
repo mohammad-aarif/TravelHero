@@ -10,6 +10,7 @@ const NearCity = () => {
             <div className="row g-2 py-3">
                 {
                     city.map(city => <NearCityData
+                    key={city._id}
                     city= {city}
                     ></NearCityData>)
                 }

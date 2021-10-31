@@ -1,8 +1,7 @@
 import React from 'react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
-import { useEffect } from 'react/cjs/react.development';
 
 const SingleTour = () => {
     const{tourid} = useParams();

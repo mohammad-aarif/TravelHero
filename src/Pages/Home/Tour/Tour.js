@@ -13,6 +13,7 @@ const Tour = () => {
             <div className="row g-5 py-3">
                 {
                     data.map(tour => <TourData
+                        key={tour._id}
                         tour={tour}
                         ></TourData>)
                 }
